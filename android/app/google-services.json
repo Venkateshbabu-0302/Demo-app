@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229760878616",
+    "project_id": "optisol-e2d61",
+    "storage_bucket": "optisol-e2d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229760878616:android:591468d15d58d0c9501b6d",
+        "android_client_info": {
+          "package_name": "com.example.demo_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229760878616-k1do6t7dgrmt9eit1qctk4jr84iiksbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_login",
+            "certificate_hash": "4b90bc6a59689dcc47e404cf9631a51318be54a1"
+          }
+        },
+        {
+          "client_id": "229760878616-tiku4he10mf4ppm0eevak3e34gai19mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRg-cStHkJX13DmdOzbQREtV94sH6uhcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229760878616-tiku4he10mf4ppm0eevak3e34gai19mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
